@@ -1,5 +1,4 @@
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ryntric)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ryntric&theme=tokyonight&border_radius=13)
 <!--
 **ryntric/ryntric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
